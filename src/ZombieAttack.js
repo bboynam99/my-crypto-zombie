@@ -22,7 +22,7 @@ class NewZombie extends Component {
             AttackBtn:()=>{
                 return( <button className="attack-btn">
                             <span role="img" aria-label="zombie">
-                                选一只🧟‍♂️干它！
+                                Choose 🧟‍♂️ ！
                             </span>
                         </button>
                 )
@@ -81,7 +81,7 @@ class NewZombie extends Component {
             AttackBtn:()=>{
                 return( <button className="attack-btn" onClick={this.zombieAttack}>
                             <span role="img">
-                                用{this.state.myZombies[index].name}干它！
+                                Choose {this.state.myZombies[index].name}！
                             </span>
                         </button>
                 )
@@ -147,7 +147,7 @@ class NewZombie extends Component {
                                                     <div className="card-header bg-dark hide-overflow-text">
                                                         <strong>{name}</strong>
                                                     </div>
-                                                    <small className="hide-overflow-text">CryptoZombie{level}级</small>
+                                                    <small className="hide-overflow-text">CryptoZombie LV{level}</small>
                                                 </div>
                                             </div>
                                         </div>  
@@ -161,7 +161,7 @@ class NewZombie extends Component {
             );
         }else{
             return(
-                <div>没有能干它的僵尸</div>
+                <div>No Zombie</div>
             )
         }
     }
