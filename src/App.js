@@ -44,22 +44,22 @@ class App extends Component {
                                 <ul>
                                     <li>
                                         <button className="start-course-btn">
-                                            <span><Link to="?ZombieArmy">僵尸军团</Link></span>
+                                            <span><Link to="?ZombieArmy">Zombie Army</Link></span>
                                         </button>
                                     </li>
                                     <li>
                                         <button className="start-course-btn">
-                                            <span><Link to="?MyZombie">我的僵尸</Link></span>
+                                            <span><Link to="?MyZombie">Mine</Link></span>
                                         </button>
                                     </li>
                                     <li>
                                         <button className="start-course-btn">
-                                            <span><Link to="?ZombieMarket">僵尸市场</Link></span>
+                                            <span><Link to="?ZombieMarket">Market</Link></span>
                                         </button>
                                     </li>
                                     <li>
                                         <button className="start-course-btn">
-                                            <span><Link to="?ZombieSimulator">基因模拟</Link></span>
+                                            <span><Link to="?ZombieSimulator">Preview</Link></span>
                                         </button>
                                     </li>
                                     <AdminArea></AdminArea>
