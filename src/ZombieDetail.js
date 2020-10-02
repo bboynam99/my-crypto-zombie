@@ -168,7 +168,7 @@ class Zombiedetail extends Component {
                         return(
                         <button className="attack-btn">
                             <span>
-                                <Link to={`?ZombieAttack&id=`+that.state.id} >发起挑战</Link>
+                                <Link to={`?ZombieAttack&id=`+that.state.id} >Challenge</Link>
                             </span>
                         </button>)
                         }
@@ -178,12 +178,12 @@ class Zombiedetail extends Component {
                             return(
                                 <div>
                                     <div className='zombieInput'>
-                                        售价：{that.state.shopInfo.price} ether
+                                        Price：{that.state.shopInfo.price} ether
                                     </div>
                                     <div>
                                         <button className="pay-btn pay-btn-last" onClick={that.buyShopZombie}>
                                             <span>
-                                                买下它
+                                                Buy
                                             </span>
                                         </button>
                                     </div>
@@ -210,7 +210,7 @@ class Zombiedetail extends Component {
                                     <div>
                                         <button className="pay-btn pay-btn-last" onClick={that.changeName}>
                                             <span>
-                                                改个名字
+                                                Change Name
                                             </span>
                                         </button>
                                     </div>
@@ -224,7 +224,7 @@ class Zombiedetail extends Component {
                                 <div>
                                     <button className="pay-btn" onClick={that.feed}>
                                         <span>
-                                            喂食一次
+                                            Feed
                                         </span>
                                     </button>
                                 </div>)
@@ -236,7 +236,7 @@ class Zombiedetail extends Component {
                             <div>
                                 <button className="pay-btn" onClick={that.levelUp}>
                                     <span>
-                                        付费升级
+                                        Upgrade
                                     </span>
                                 </button>
                             </div>)
@@ -258,7 +258,7 @@ class Zombiedetail extends Component {
                                     <div>
                                         <button className="pay-btn pay-btn-last" onClick={that.saleZombie}>
                                             <span>
-                                                卖了它
+                                                Sell
                                             </span>
                                         </button>
                                     </div>
