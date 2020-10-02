@@ -93,7 +93,7 @@ class MyZombie extends Component {
                             <input 
                                 type="text" 
                                 id='zombieName' 
-                                placeholder='给僵尸起个好名字' 
+                                placeholder='Choose A Name' 
                                 ref={(input)=>{this.input=input}} 
                                 value={this.state.zombieName}
                                 onChange={this.inputChange}>
@@ -102,7 +102,7 @@ class MyZombie extends Component {
                         <div>
                             <button className="attack-btn" onClick={this.buyZombie}>
                                 <span>
-                                    购买僵尸    
+                                    Buy    
                                 </span>
                             </button>
                         </div>
@@ -117,7 +117,7 @@ class MyZombie extends Component {
                         <input 
                             type="text" 
                             id='zombieName' 
-                            placeholder='给僵尸起个好名字' 
+                            placeholder='Choose A Name' 
                             ref={(input)=>{this.input=input}} 
                             value={this.state.zombieName}
                             onChange={this.inputChange}>
@@ -126,7 +126,7 @@ class MyZombie extends Component {
                     <div>
                         <button className="attack-btn" onClick={this.createZombie}>
                             <span>
-                                免费领养僵尸    
+                                Create    
                             </span>
                         </button>
                     </div>
