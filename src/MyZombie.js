@@ -107,7 +107,7 @@ class MyZombie extends Component {
                             </button>
                         </div>
                     </div>
-                    <div className='transactionHash' display={this.state.txHashDisp}>{this.state.transactionHash}<br></br>等待确认中...</div>
+                    <div className='transactionHash' display={this.state.txHashDisp}>{this.state.transactionHash}<br></br>Waiting confirmation...</div>
                 </div>
             )
         }else{
@@ -131,7 +131,7 @@ class MyZombie extends Component {
                         </button>
                     </div>
                 </div>
-                <div className='transactionHash' display={this.state.txHashDisp}>{this.state.transactionHash}<br></br>等待确认中...</div>
+                <div className='transactionHash' display={this.state.txHashDisp}>{this.state.transactionHash}<br></br>Waiting confirmation...</div>
             </div>)
         }
     }
