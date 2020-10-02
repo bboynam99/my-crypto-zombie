@@ -8,27 +8,27 @@ class ZombieToggler extends Component  {
         this.state = { list: [
                 {
                     "name":"head",
-                    "title":"头部基因",
+                    "title":"Head",
                     "max":8
                 },{
                     "name":"eye",
-                    "title":"眼部基因",
+                    "title":"Eye",
                     "max":11
                 },{
                     "name":"shirt",
-                    "title":"上衣基因",
+                    "title":"Shirt",
                     "max":6
                 },{
                     "name":"skin",
-                    "title":"皮肤颜色",
+                    "title":"Skin",
                     "max":360
                 },{
                     "name":"eye_color",
-                    "title":"眼睛颜色",
+                    "title":"Eye Color",
                     "max":360
                 },{
                     "name":"color",
-                    "title":"衣服颜色",
+                    "title":"Shirt Color",
                     "max":360
                 }
             ],inputValue:[]
