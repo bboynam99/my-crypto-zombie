@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/my-crypto-zombie/static/css/main.0cc7944e.chunk.css",
-    "main.js": "/my-crypto-zombie/static/js/main.02ee81d2.chunk.js",
-    "main.js.map": "/my-crypto-zombie/static/js/main.02ee81d2.chunk.js.map",
-    "runtime-main.js": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js",
-    "runtime-main.js.map": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js.map",
-    "static/js/2.2929d97f.chunk.js": "/my-crypto-zombie/static/js/2.2929d97f.chunk.js",
-    "static/js/2.2929d97f.chunk.js.map": "/my-crypto-zombie/static/js/2.2929d97f.chunk.js.map",
-    "index.html": "/my-crypto-zombie/index.html",
-    "precache-manifest.d2011df8114e5a6e2924f97b55fd3051.js": "/my-crypto-zombie/precache-manifest.d2011df8114e5a6e2924f97b55fd3051.js",
-    "service-worker.js": "/my-crypto-zombie/service-worker.js",
-    "static/css/main.0cc7944e.chunk.css.map": "/my-crypto-zombie/static/css/main.0cc7944e.chunk.css.map",
-    "static/js/2.2929d97f.chunk.js.LICENSE": "/my-crypto-zombie/static/js/2.2929d97f.chunk.js.LICENSE",
-    "static/media/App.css": "/my-crypto-zombie/static/media/walls.b102b800.jpg",
-    "static/media/ZombiePreview.css": "/my-crypto-zombie/static/media/zombierun.08087132.png"
+    "main.css": "/static/css/main.90470de6.chunk.css",
+    "main.js": "/static/js/main.f3b5e53f.chunk.js",
+    "main.js.map": "/static/js/main.f3b5e53f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1288a94f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1288a94f.js.map",
+    "static/js/2.c754ba80.chunk.js": "/static/js/2.c754ba80.chunk.js",
+    "static/js/2.c754ba80.chunk.js.map": "/static/js/2.c754ba80.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c34895ef4fd8f51003fd1efb4f2da3cd.js": "/precache-manifest.c34895ef4fd8f51003fd1efb4f2da3cd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.90470de6.chunk.css.map": "/static/css/main.90470de6.chunk.css.map",
+    "static/js/2.c754ba80.chunk.js.LICENSE": "/static/js/2.c754ba80.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/static/media/zombierun.08087132.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c1a62d7.js",
-    "static/js/2.2929d97f.chunk.js",
-    "static/css/main.0cc7944e.chunk.css",
-    "static/js/main.02ee81d2.chunk.js"
+    "static/js/runtime-main.1288a94f.js",
+    "static/js/2.c754ba80.chunk.js",
+    "static/css/main.90470de6.chunk.css",
+    "static/js/main.f3b5e53f.chunk.js"
   ]
 }
