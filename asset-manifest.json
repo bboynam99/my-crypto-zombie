@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.4d299b81.chunk.css",
-    "main.js": "/static/js/main.780af67f.chunk.js",
-    "main.js.map": "/static/js/main.780af67f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3c1a62d7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3c1a62d7.js.map",
-    "static/js/2.2929d97f.chunk.js": "/static/js/2.2929d97f.chunk.js",
-    "static/js/2.2929d97f.chunk.js.map": "/static/js/2.2929d97f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2e638af0aee52f0076ef22d85f7208b7.js": "/precache-manifest.2e638af0aee52f0076ef22d85f7208b7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4d299b81.chunk.css.map": "/static/css/main.4d299b81.chunk.css.map",
-    "static/js/2.2929d97f.chunk.js.LICENSE": "/static/js/2.2929d97f.chunk.js.LICENSE",
-    "static/media/App.css": "/static/media/walls.b102b800.jpg",
-    "static/media/ZombiePreview.css": "/static/media/zombierun.08087132.png"
+    "main.css": "/my-crypto-zombie/static/css/main.4d299b81.chunk.css",
+    "main.js": "/my-crypto-zombie/static/js/main.780af67f.chunk.js",
+    "main.js.map": "/my-crypto-zombie/static/js/main.780af67f.chunk.js.map",
+    "runtime-main.js": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js",
+    "runtime-main.js.map": "/my-crypto-zombie/static/js/runtime-main.3c1a62d7.js.map",
+    "static/js/2.2929d97f.chunk.js": "/my-crypto-zombie/static/js/2.2929d97f.chunk.js",
+    "static/js/2.2929d97f.chunk.js.map": "/my-crypto-zombie/static/js/2.2929d97f.chunk.js.map",
+    "index.html": "/my-crypto-zombie/index.html",
+    "precache-manifest.2e638af0aee52f0076ef22d85f7208b7.js": "/my-crypto-zombie/precache-manifest.2e638af0aee52f0076ef22d85f7208b7.js",
+    "service-worker.js": "/my-crypto-zombie/service-worker.js",
+    "static/css/main.4d299b81.chunk.css.map": "/my-crypto-zombie/static/css/main.4d299b81.chunk.css.map",
+    "static/js/2.2929d97f.chunk.js.LICENSE": "/my-crypto-zombie/static/js/2.2929d97f.chunk.js.LICENSE",
+    "static/media/App.css": "/my-crypto-zombie/static/media/walls.b102b800.jpg",
+    "static/media/ZombiePreview.css": "/my-crypto-zombie/static/media/zombierun.08087132.png"
   },
   "entrypoints": [
     "static/js/runtime-main.3c1a62d7.js",
